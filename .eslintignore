@@ -1,0 +1,10 @@
+public/
+node_modules/
+*.css
+*.scss
+*.config.ts
+*.config.js
+*.d.ts
+config-overrides.js
+jsconfig.json
+generators/
